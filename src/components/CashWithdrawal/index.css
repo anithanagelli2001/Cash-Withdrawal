@@ -1,0 +1,22 @@
+.cash-withdrawal {
+  font-family: 'Roboto', sans-serif;
+}
+
+ul.denominations-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+button {
+  background-color: #382f5a;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 16px;
+  margin: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #585076;
+}
